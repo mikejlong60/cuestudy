@@ -14,7 +14,7 @@
 
 floors: [...#Floor]
 floors: [
-	{level: -2},
+	{level: 1},
 	{level: -1},
 	{level: 0},
 	{level: 1},
